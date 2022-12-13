@@ -307,9 +307,6 @@
             />
           </div>
 
-
-
-
           <div class="input-name">
             <input class="button" type="submit" value="Register" />
           </div>
