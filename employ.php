@@ -266,7 +266,7 @@
     <div class="wrapper">
       <h2>Recrutment Form</h2>
       <div class="form-conteniar">
-        <form action="insertRecr.php" method="POST">
+        <form action="" method="POST">
           <div class="input-name">
             <input
               type="text"
