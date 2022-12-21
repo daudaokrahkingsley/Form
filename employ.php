@@ -69,7 +69,7 @@
     .input-name i {
       position: absolute;
       font-size: 18px;
-      border-right: 1px solid #cccccc;
+      border-right: 2px solid #cccccc;
     }
 
     .email {
